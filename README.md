@@ -14,8 +14,9 @@ jss.createStyleSheet(reset).attach()
 #### You must know
 
 Required JSS plugins for correct working:
-  2. [jss-camel-case](https://github.com/cssinjs/jss-camel-case)
-  3. [jss-global](https://github.com/cssinjs/jss-global)
+
+  1. [jss-camel-case](https://github.com/cssinjs/jss-camel-case)
+  1. [jss-global](https://github.com/cssinjs/jss-global)
 
 Anyway, you can use a [preset](https://github.com/cssinjs/jss-preset-default) for a quick setup with default plugins.
 
