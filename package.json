@@ -1,6 +1,6 @@
 {
   "name": "reset-jss",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "JSS port of Meyer's reset.css",
   "author": {
     "name": "Oleg Slobodskoi",
@@ -32,8 +32,7 @@
     "eslint-plugin-react": "^6.8.0"
   },
   "peerDependencies": {
-    "jss": "^8.1.0",
-    "jss-global": "^2.0.0",
-    "jss-vendor-prefixer": "^6.0.0"
+    "jss": "^9.0.0",
+    "jss-global": "^2.0.0"
   }
 }
